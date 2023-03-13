@@ -1,28 +1,28 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads": "IRON",
-      "main_ads_banner": "",
-      "main_ads_intertitial": "",
-      "main_ads_natives": "",
-      "backup_ads_banner": "",
-      "backup_ads_intertitial": "",
-      "backup_ads_natives": "",
-      "open_ads_admob": "",
-      "switch_banner_natives": "1",
-      "on_off_native_listview": "1",
-      "interval_intertitial": 2,
-      "initialize_sdk": "",
-      "initialize_sdk_backup_ads": "",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_natives": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
   ],
   "Categories": [
     {
@@ -42,7 +42,7 @@
       "category": "Mods",
       "image": "https://aweu.net/2023/BENDOIL/Lalawy/Wendigo/Scp%20682%E2%80%8B/Scp%20682%E2%80%8B.jpg",
       "download": "https://aweu.net/2023/BENDOIL/Lalawy/Wendigo/Scp%20682%E2%80%8B/Scp%20682%E2%80%8B.zip",
-      "description": "https://aweu.net/2023/BENDOIL/dexrip.html"
+      "description": "file:///android_asset/lalawy.html"
     },
     {
       "id": 2,
@@ -50,7 +50,7 @@
       "category": "Mods",
       "image": "https://aweu.net/2023/BENDOIL/Lalawy/Wendigo/wendigo/wendigo.jpg",
       "download": "https://aweu.net/2023/BENDOIL/Lalawy/Wendigo/wendigo/wendigo.zip",
-      "description": "https://aweu.net/2023/BENDOIL/dexrip.html"
+      "description": "file:///android_asset/lalawy.html"
     }
   ]
 }
