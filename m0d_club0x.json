@@ -1,6 +1,6 @@
 {
-  "Ads": [
- {
+	"Ads": [
+		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "IRON",
 			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -23,27 +23,26 @@
 			"status_app": "0",
 			"link_redirect": "https://"
 		}
-  ],"Categories":
-  [
-    {
-    "category":"All Mods"
-  },{
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  ],
-  "Mods":
-  [
-    {
-      "id":1,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/BENDOIL/Lalawy/Clubbox/clubbox%20mod/clubbox%20mod.jpg",
-      "download":"https://aweu.net/2023/BENDOIL/Lalawy/Clubbox/clubbox%20mod/clubbox%20mod.zip",
-      "description": "file:///android_asset/lalawy.html"
-    }
-	
-    
-  ]
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Clubbox/clubbox%20mod/clubbox%20mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Clubbox/clubbox%20mod/clubbox%20mod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		}
+	]
 }
