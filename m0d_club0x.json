@@ -3,13 +3,13 @@
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "IRON",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_banner": "ca-app-pub-2080033745578001/1361202991",
+			"main_ads_intertitial": "ca-app-pub-2080033745578001/9048121326",
+			"main_ads_natives": "ca-app-pub-2080033745578001/9610679367",
 			"backup_ads_banner": "",
 			"backup_ads_intertitial": "",
 			"backup_ads_natives": "",
-			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_admob": "ca-app-pub-2080033745578001/6421957980",
 			"switch_banner_natives": "1",
 			"on_off_native_listview": "1",
 			"interval_intertitial": 5,
@@ -38,10 +38,50 @@
 	"Mods": [
 		{
 			"id": 1,
-			"name": "",
+			"name": "EdamimiPack V2.0",
 			"category": "Mods",
-			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Clubbox/clubbox%20mod/clubbox%20mod.jpg",
-			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Clubbox/clubbox%20mod/clubbox%20mod.zip",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/EdamimiPack%20V2.0/EdamimiPack%20V2.0.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/EdamimiPack%20V2.0/EdamimiPack%20V2.0.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 2,
+			"name": "Epic Plant Wubbox",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Epic%20Plant%20Wubbox/Epic%20Plant%20Wubbox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Epic%20Plant%20Wubbox/Epic%20Plant%20Wubbox.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 3,
+			"name": "Evil Wubbox",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Evil%20Wubbox/Evil%20Wubbox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Evil%20Wubbox/Evil%20Wubbox.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 4,
+			"name": "My Singing Monsters X Melon Playground",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/My%20Singing%20Monsters%20X%20Melon%20Playground/My%20Singing%20Monsters%20X%20Melon%20Playground.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/My%20Singing%20Monsters%20X%20Melon%20Playground/My%20Singing%20Monsters%20X%20Melon%20Playground.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 5,
+			"name": "Wubbox",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Wubbox/Wubbox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Wubbox/Wubbox.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 6,
+			"name": "Wubboxes",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Wubboxes/Wubboxes.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Wubbox/Wubboxes/Wubboxes.zip",
 			"description": "file:///android_asset/lalawy.html"
 		}
 	]
