@@ -1,15 +1,15 @@
 {
-  "Ads": [
-    {
+	"Ads": [
+		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "IRON",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_banner": "ca-app-pub-2080033745578001/2081605330",
+			"main_ads_intertitial": "ca-app-pub-2080033745578001/3320603182",
+			"main_ads_natives": "ca-app-pub-2080033745578001/3404363660",
 			"backup_ads_banner": "",
 			"backup_ads_intertitial": "",
 			"backup_ads_natives": "",
-			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_admob": "ca-app-pub-2080033745578001/4945224789",
 			"switch_banner_natives": "1",
 			"on_off_native_listview": "1",
 			"interval_intertitial": 5,
@@ -23,34 +23,138 @@
 			"status_app": "0",
 			"link_redirect": "https://"
 		}
-  ],
-  "Categories": [
-    {
-      "category": "All Mods"
-    },
-    {
-      "category": "Mods"
-    },
-    {
-      "category": "Other Mods"
-    }
-  ],
-  "Mods": [
-    {
-      "id": 1,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/bloomberg/bloomberg.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/bloomberg/bloomberg.zip",
-      "description": "file:///android_asset/lalawy.html"
-    },
-    {
-      "id": 2,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/carrion%20monster%E2%80%8B/carrion%20monster.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/carrion%20monster%E2%80%8B/carrion%20monster%E2%80%8B.zip",
-      "description": "file:///android_asset/lalawy.html"
-    }
-  ]
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "bloomberg",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/bloomberg/bloomberg.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/bloomberg/bloomberg.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 2,
+			"name": "boxy boo​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/carrion%20monster%E2%80%8B/carrion%20monster.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/carrion%20monster%E2%80%8B/carrion%20monster%E2%80%8B.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 3,
+			"name": "carrion monster​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/carrion%20monster%E2%80%8B/carrion%20monster.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/carrion%20monster%E2%80%8B/carrion%20monster%E2%80%8B.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 4,
+			"name": "chudowishe 2​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/chudowishe%202%E2%80%8B/chudowishe%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/chudowishe%202%E2%80%8B/chudowishe%202%E2%80%8B.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 5,
+			"name": "chudowishe 3​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/chudowishe%203%E2%80%8B/chudowishe%203%E2%80%8B.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/chudowishe%203%E2%80%8B/chudowishe%203%E2%80%8B.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 6,
+			"name": "Chudowishe​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Chudowishe%E2%80%8B/Chudowishe.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Chudowishe%E2%80%8B/Chudowishe%E2%80%8B.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 7,
+			"name": "doorsguns",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/doorsguns/doorsguns.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/doorsguns/doorsguns.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 8,
+			"name": "gorebox mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/gorebox%20mod/gorebox%20mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/gorebox%20mod/gorebox%20mod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 9,
+			"name": "melonoid",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/melonoid/melonoid.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/melonoid/melonoid.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 10,
+			"name": "MODS for fase2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/MODS%20for%20fase2/MODS%20for%20fase2.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/MODS%20for%20fase2/MODS%20for%20fase2.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 11,
+			"name": "monster from backroo",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/monster%20from%20backroo/monster%20from%20backroo.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/monster%20from%20backroo/monster%20from%20backroo.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 12,
+			"name": "monstr 1​",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/monstr%201%E2%80%8B/monstr%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/monstr%201%E2%80%8B/monstr%201%E2%80%8B.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 13,
+			"name": "Mysingingmonstersv1",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Mysingingmonstersv1/Mysingingmonstersv1.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Mysingingmonstersv1/Mysingingmonstersv1.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 14,
+			"name": "Nerd",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Nerd/Nerd.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Nerd/Nerd.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 15,
+			"name": "Pack on Christmas Monsters",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Pack%20on%20Christmas%20Monsters/Pack%20on%20Christmas%20Monsters.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Meat/Pack%20on%20Christmas%20Monsters/Pack%20on%20Christmas%20Monsters.zip",
+			"description": "file:///android_asset/lalawy.html"
+		}
+	]
 }
