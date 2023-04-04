@@ -1,15 +1,15 @@
 {
-  "Ads": [
-   {
+	"Ads": [
+		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "IRON",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_banner": "ca-app-pub-2080033745578001/2306904417",
+			"main_ads_intertitial": "ca-app-pub-2080033745578001/7395579560",
+			"main_ads_natives": "ca-app-pub-2080033745578001/2395083061",
 			"backup_ads_banner": "",
 			"backup_ads_intertitial": "",
 			"backup_ads_natives": "",
-			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_admob": "ca-app-pub-2080033745578001/9702727444",
 			"switch_banner_natives": "1",
 			"on_off_native_listview": "1",
 			"interval_intertitial": 5,
@@ -23,34 +23,58 @@
 			"status_app": "0",
 			"link_redirect": "https://"
 		}
-  ],
-  "Categories": [
-    {
-      "category": "All Mods"
-    },
-    {
-      "category": "Mods"
-    },
-    {
-      "category": "Other Mods"
-    }
-  ],
-  "Mods": [
-    {
-      "id": 1,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix/crucifix.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix/crucifix.zip",
-      "description": "file:///android_asset/lalawy.html"
-    },
-    {
-      "id": 2,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix%202_/crucifix%202_.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix%202_/crucifix%202_.zip",
-      "description": "file:///android_asset/lalawy.html"
-    }
-  ]
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "crucifix",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix/crucifix.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix/crucifix.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 2,
+			"name": "crucifix 2_",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix%202_/crucifix%202_.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix%202_/crucifix%202_.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 3,
+			"name": "crucifix_",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix_/crucifix_.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/crucifix_/crucifix_.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 4,
+			"name": "DoorsCrucifix",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/DoorsCrucifix/DoorsCrucifix.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/DoorsCrucifix/DoorsCrucifix.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 5,
+			"name": "DoorsCrucifix_melmod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/DoorsCrucifix_melmod/DoorsCrucifix_melmod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Crucifix/DoorsCrucifix_melmod/DoorsCrucifix_melmod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+	]
 }
