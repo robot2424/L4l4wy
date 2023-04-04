@@ -1,15 +1,15 @@
 {
-  "Ads": [
-    {
+	"Ads": [
+		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "IRON",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_banner": "ca-app-pub-2080033745578001/9473010194",
+			"main_ads_intertitial": "ca-app-pub-2080033745578001/3491993575",
+			"main_ads_natives": "ca-app-pub-2080033745578001/9658495415",
 			"backup_ads_banner": "",
 			"backup_ads_intertitial": "",
 			"backup_ads_natives": "",
-			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_admob": "ca-app-pub-2080033745578001/6262175880",
 			"switch_banner_natives": "1",
 			"on_off_native_listview": "1",
 			"interval_intertitial": 5,
@@ -23,34 +23,50 @@
 			"status_app": "0",
 			"link_redirect": "https://"
 		}
-  ],
-  "Categories": [
-    {
-      "category": "All Mods"
-    },
-    {
-      "category": "Mods"
-    },
-    {
-      "category": "Other Mods"
-    }
-  ],
-  "Mods": [
-    {
-      "id": 1,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/BanBan/BanBan.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/BanBan/BanBan.zip",
-      "description": "file:///android_asset/lalawy.html"
-    },
-    {
-      "id": 2,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/GofBanSave/GofBanSave.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/GofBanSave/GofBanSave.zip",
-      "description": "file:///android_asset/lalawy.html"
-    }
-  ]
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "BanBan",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/BanBan/BanBan.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/BanBan/BanBan.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 2,
+			"name": "GofBanSave",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/GofBanSave/GofBanSave.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/GofBanSave/GofBanSave.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 3,
+			"name": "GofBMelmod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/GofBMelmod/GofBMelmod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/GofBMelmod/GofBMelmod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 4,
+			"name": "poppy 2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/poppy%202/poppy%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Garten/poppy%202/poppy%202.zip",
+			"description": "file:///android_asset/lalawy.html"
+		}
+	]
 }
