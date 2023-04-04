@@ -1,15 +1,15 @@
 {
-  "Ads": [
-   {
+	"Ads": [
+		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "IRON",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_banner": "ca-app-pub-2080033745578001/5224426381",
+			"main_ads_intertitial": "ca-app-pub-2080033745578001/1069558955",
+			"main_ads_natives": "ca-app-pub-2080033745578001/1430868646",
 			"backup_ads_banner": "",
 			"backup_ads_intertitial": "",
 			"backup_ads_natives": "",
-			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_admob": "ca-app-pub-2080033745578001/6345936369",
 			"switch_banner_natives": "1",
 			"on_off_native_listview": "1",
 			"interval_intertitial": 5,
@@ -23,34 +23,138 @@
 			"status_app": "0",
 			"link_redirect": "https://"
 		}
-  ],
-  "Categories": [
-    {
-      "category": "All Mods"
-    },
-    {
-      "category": "Mods"
-    },
-    {
-      "category": "Other Mods"
-    }
-  ],
-  "Mods": [
-    {
-      "id": 1,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Doors/Doors%20Background/Doors%20Background.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Doors/Doors%20Background/Doors%20Background.zip",
-      "description": "file:///android_asset/lalawy.html"
-    },
-    {
-      "id": 2,
-      "name": "",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Doors/Doors%20from%20Roblox/Doors%20from%20Roblox.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Doors/Doors%20from%20Roblox/Doors%20from%20Roblox.zip",
-      "description": "file:///android_asset/lalawy.html"
-    }
-  ]
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Doors mod  by NeTx",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Doors%20mod%20%20by%20NeTx/Doors%20mod%20%20by%20NeTx.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Doors%20mod%20%20by%20NeTx/Doors%20mod%20%20by%20NeTx.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 2,
+			"name": "DOORS PACK",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/DOORS%20PACK/DOORS%20PACK.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/DOORS%20PACK/DOORS%20PACK.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 3,
+			"name": "DOORS PACK BY SAINTCANONO",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/DOORS%20PACK%20BY%20SAINTCANONO/DOORS%20PACK%20BY%20SAINTCANONO.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/DOORS%20PACK%20BY%20SAINTCANONO/DOORS%20PACK%20BY%20SAINTCANONO.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 4,
+			"name": "Hide mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Hide%20mod/Hide%20mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Hide%20mod/Hide%20mod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 5,
+			"name": "Remade Doors",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Remade%20Doors/Remade%20Doors.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Remade%20Doors/Remade%20Doors.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 6,
+			"name": "Room 50",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Room%2050/Room%2050.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Room%2050/Room%2050.zip?",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 7,
+			"name": "Room 100",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Room%20100/Room%20100.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Room%20100/Room%20100.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 8,
+			"name": "Doors Background",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Doors%20Background/Doors%20Background.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Doors%20Background/Doors%20Background.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 9,
+			"name": "Doors from Roblox",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Doors%20from%20Roblox/Doors%20from%20Roblox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Doors%20from%20Roblox/Doors%20from%20Roblox.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 10,
+			"name": "Roblox Doors Characters",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Roblox%20Doors%20Characters/Roblox%20Doors%20Characters.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Roblox%20Doors%20Characters/Roblox%20Doors%20Characters.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 11,
+			"name": "Roblox Doors pack",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Roblox%20Doors%20pack/Roblox%20Doors%20pack.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Roblox%20Doors%20pack/Roblox%20Doors%20pack.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 12,
+			"name": "Rush (monster)",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Rush%20(monster)/Rush%20(monster).jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Rush%20(monster)/Rush%20(monster).zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 13,
+			"name": "Seek arms mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Seek%20arms%20mod/Seek%20arms%20mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Seek%20arms%20mod/Seek%20arms%20mod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 14,
+			"name": "Seek chase v2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Seek%20chase%20v2/Seek%20chase%20v2.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/Seek%20chase%20v2/Seek%20chase%20v2.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 15,
+			"name": "The eyes remade",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/The%20eyes%20remade/The%20eyes%20remade.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/The%20Doors/The%20eyes%20remade/The%20eyes%20remade.zip",
+			"description": "file:///android_asset/lalawy.html"
+		}
+	]
 }
