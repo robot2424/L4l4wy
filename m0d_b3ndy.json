@@ -1,56 +1,128 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads": "IRON",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner": "",
-      "backup_ads_intertitial": "",
-      "backup_ads_natives": "",
-      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
-      "switch_banner_natives": "1",
-      "on_off_native_listview": "1",
-      "interval_intertitial": 5,
-      "initialize_sdk": "",
-      "initialize_sdk_backup_ads": "",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
-  "Categories": [
-    {
-      "category": "All Mods"
-    },
-    {
-      "category": "Mods"
-    },
-    {
-      "category": "Other Mods"
-    }
-  ],
-  "Mods": [
-    {
-      "id": 1,
-      "name": "Batim",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Batim/Batim.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Batim/Batim.zip",
-      "description": "file:///android_asset/lalawy.html"
-    },
-    {
-      "id": 2,
-      "name": "Bendy Mod",
-      "category": "Mods",
-      "image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod/Bendy%20Mod.jpg",
-      "download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod/Bendy%20Mod.zip",
-      "description": "file:///android_asset/lalawy.html"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-2080033745578001/1880077740",
+			"main_ads_intertitial": "ca-app-pub-2080033745578001/3318665380",
+			"main_ads_natives": "ca-app-pub-2080033745578001/4501822910",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_natives": "",
+			"open_ads_admob": "ca-app-pub-2080033745578001/3777830384",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Batim",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Batim/Batim.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Batim/Batim.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 2,
+			"name": "Bendy Mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod/Bendy%20Mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod/Bendy%20Mod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 3,
+			"name": "Bendy Mod Melon",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod%20Melon/Bendy%20Mod%20Melon.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod%20Melon/Bendy%20Mod%20Melon.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 4,
+			"name": "Bendy Mod v3",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod%20v3/Bendy%20Mod%20v3.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod%20v3/Bendy%20Mod%20v3.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 5,
+			"name": "Bendy Mod+Crusifix Melon",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod%2BCrusifix%20Melon/Bendy%20Mod%2BCrusifix%20Melon.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Mod%2BCrusifix%20Melon/Bendy%20Mod%2BCrusifix%20Melon.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 6,
+			"name": "Bendy Pack Mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Pack%20Mod/Bendy%20Pack%20Mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20Pack%20Mod/Bendy%20Pack%20Mod.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 7,
+			"name": "Bendy The ink Demon",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20The%20ink%20Demon/Bendy%20The%20ink%20Demon.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Bendy%20The%20ink%20Demon/Bendy%20The%20ink%20Demon.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 8,
+			"name": "Crippipaste and Horror",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Crippipaste%20and%20Horror/Crippipaste%20and%20Horror.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Crippipaste%20and%20Horror/Crippipaste%20and%20Horror.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 9,
+			"name": "Ink Demon",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Ink%20Demon/Ink%20Demon.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Ink%20Demon/Ink%20Demon.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 10,
+			"name": "Pack by batim",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Pack%20by%20batim/Pack%20by%20batim.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Pack%20by%20batim/Pack%20by%20batim.zip",
+			"description": "file:///android_asset/lalawy.html"
+		},
+		{
+			"id": 11,
+			"name": "Pack by bendy",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Pack%20by%20bendy/Pack%20by%20bendy.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Lalawy/Bendy/Pack%20by%20bendy/Pack%20by%20bendy.zip",
+			"description": "file:///android_asset/lalawy.html"
+		}
+	]
 }
